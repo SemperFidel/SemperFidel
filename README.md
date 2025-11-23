@@ -17,8 +17,9 @@
 Я фокусируюсь на проектировании и реализации **масштабируемых API** (Ktor / FastAPI), грамотной работе с базами данных (PostgreSQL, MongoDB) и контейнеризацией приложений (Docker). Ценю чистую архитектуру, поддерживаемость кода и автоматизацию процессов (CI/CD).
 
 ## 📚 В процессе изучения
-- **Vue.js**  
-- **TypeScript**
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" />Vue.js</a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" />Vite</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />TypeScript</a>
 
 ## 🎯 Что могу дать команде
 - Проектирование удобной и масштабируемой архитектуры backend-сервисов.  
